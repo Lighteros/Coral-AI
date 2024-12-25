@@ -132,7 +132,7 @@
             id: "Whitepaper",
             text: "Whitepaper",
             goTo: "",
-            link: "https://jonathans-organization-27.gitbook.io/coralai/project-summary/roadmap-2025",
+            link: "https://docs.coralai.dev/project-summary/roadmap-2025",
           },
           { id: "roadmap", text: "Roadmap", goTo: "roadmap" },
           { id: "tokenomics", text: "Tokenomics", goTo: "tokenomics" },
