@@ -365,7 +365,7 @@
                     (0, s.jsx)("div", {
                       className: "mb-20 mt-auto flex w-full justify-center",
                       children: (0, s.jsx)(n.default, {
-                        href: "https://dapp-coral-aif.vercel.app/",
+                        href: "https://app.coralai.dev/",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "w-full",
@@ -459,7 +459,7 @@
                   className: "flex items-center gap-4",
                   children: [
                     (0, s.jsx)(n.default, {
-                      href: "https://dapp-coral-aif.vercel.app/",
+                      href: "https://app.coralai.dev/",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: (0, s.jsx)(d.z, {
